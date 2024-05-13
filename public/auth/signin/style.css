@@ -1,0 +1,11 @@
+.signup {
+  margin-top: 30px;
+}
+
+#forgotpassword {
+  text-align: left;
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-style: italic;
+  cursor: pointer;
+}
